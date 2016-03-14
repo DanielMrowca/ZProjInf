@@ -1,0 +1,2 @@
+# ZProjInf
+Zarządzanie projektami informatycznymi
